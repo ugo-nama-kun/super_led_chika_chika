@@ -20,6 +20,6 @@ LED をチカチカするだけのものをハードウェア制作の練習に�
 * ZEPエンジニアリング(KiCadのフットプリント関係)：https://www.zep.co.jp/nbeppu/article/z-kicad-da3/
 * 自作キーボード温泉街の歩き方（発注関係）：https://salicylic-acid3.hatenablog.com/entry/jlcpcb-order
 
+![led_gif](https://user-images.githubusercontent.com/1684732/207229307-a6d7fc26-0fda-41a7-b50c-1249acf3637b.gif)
 ![led](https://user-images.githubusercontent.com/1684732/207227797-0e568806-a0cd-4944-a92d-0eefbdf585f8.jpeg)
-
 ![image](https://user-images.githubusercontent.com/1684732/207227131-8eef1f55-2cb0-411f-a396-ff8fc5e3b655.png)
